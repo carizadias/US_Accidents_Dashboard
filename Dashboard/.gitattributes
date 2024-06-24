@@ -1,0 +1,2 @@
+accident_dashboard.py filter=lfs diff=lfs merge=lfs -text
+US_Accidents_March23_sampled_500k.csv filter=lfs diff=lfs merge=lfs -text
