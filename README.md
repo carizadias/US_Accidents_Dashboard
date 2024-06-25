@@ -61,15 +61,15 @@ Período de Coleta: Os dados cobrem acidentes de trânsito registrados desde fev
 Número de Registros: O dataset contém mais de 7 milhões de registros de acidentes, tornando-o um recurso valioso para análise e visualização.
 Atributos Disponíveis: Cada registro de acidente inclui uma ampla gama de atributos, como:
 
--ID: Identificador único do acidente.
--Severity: Severidade do acidente em uma escala de 1 a 4.
--Start_Time: Data e hora de início do acidente.
--End_Time: Data e hora de término do acidente.
--Start_Lat e Start_Lng: Latitude e longitude do local do acidente.
--Description: Descrição textual do acidente.
--State: Estado onde o acidente ocorreu.
--Temperature(F): Temperatura.
--Weather_Condition: Condição climática no momento do acidente.
+- ID: Identificador único do acidente.
+- Severity: Severidade do acidente em uma escala de 1 a 4.
+- Start_Time: Data e hora de início do acidente.
+- End_Time: Data e hora de término do acidente.
+- Start_Lat e Start_Lng: Latitude e longitude do local do acidente.
+- Description: Descrição textual do acidente.
+- State: Estado onde o acidente ocorreu.
+- Temperature(F): Temperatura.
+- Weather_Condition: Condição climática no momento do acidente.
 Outros atributos relacionados às condições de visibilidade, tipo de estrada, presença de obras, entre outros.
 
 ## Dashboard em Streamlit:
@@ -77,6 +77,7 @@ Outros atributos relacionados às condições de visibilidade, tipo de estrada, 
 
 <iframe width="875" height="492" src="https://www.youtube.com/embed/uwg72l_kC8M" title="Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe src="https://www.youtube.com/embed/uwg72l_kC8M" ></iframe>
 
 
 ## Contribuições
