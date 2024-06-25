@@ -40,20 +40,20 @@ Para configurar o ambiente de desenvolvimento:
    ```bash
    pip install -r requirements.txt
    ```
-##Execução do Projeto
+## Execução do Projeto
 ```bash
 streamlit run dashboard.py
 ```
 Irá abrir automaticamente uma pagina do seu browser predefinido, caso não acontecer clique no endereço localhost que aparecerá no terminal, por exemplo:http://localhost:8501.
 
-##Bibliotecas Utilizadas
+## Bibliotecas Utilizadas
 
 - Pandas
 - Altair
 - Plotly
 - Streamlit
 
-##Dados Utilizados
+## Dados Utilizados
 [Kaggle- US Accidents 2016-2023](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 Os dados de acidentes utilizados neste projeto foram obtidos a partir do dataset US Accidents disponível no Kaggle. O dataset original é composto por informações abrangentes sobre acidentes de trânsito ocorridos nos Estados Unidos. Abaixo estão alguns detalhes importantes sobre o dataset:
 
@@ -72,8 +72,8 @@ Atributos Disponíveis: Cada registro de acidente inclui uma ampla gama de atrib
 -Weather_Condition: Condição climática no momento do acidente.
 Outros atributos relacionados às condições de visibilidade, tipo de estrada, presença de obras, entre outros.
 
-##Dashboard em Streamlit
+## Dashboard em Streamlit
 
-##Contribuições
+## Contribuições
 Contribuições são bem-vindas! Para sugestões de novas funcionalidades, melhorias ou correções de bugs, abra uma issue ou envie um pull request.
 
