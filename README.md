@@ -76,8 +76,7 @@ Outros atributos relacionados às condições de visibilidade, tipo de estrada, 
 
 Veja o dashboard em ação no [YouTube](https://www.youtube.com/watch?v=uwg72l_kC8M):
 
-[![Dashboard](Dashboard/assets/thumbnail.jpg)](https://www.youtube.com/watch?v=uwg72l_kC8M)
-
+[![Dashboard](https://img.youtube.com/vi/uwg72l_kC8M/0.jpg)](https://www.youtube.com/watch?v=uwg72l_kC8M)
 
 
 
