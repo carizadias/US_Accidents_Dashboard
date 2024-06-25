@@ -74,14 +74,6 @@ Outros atributos relacionados às condições de visibilidade, tipo de estrada, 
 
 ## Dashboard em Streamlit:
 
-
-<iframe width="875" height="492" src="https://www.youtube.com/embed/uwg72l_kC8M" title="Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-Neste exemplo, a linha `[![Dashboard](https://img.youtube.com/vi/uwg72l_kC8M/0.jpg)](https://www.youtube.com/watch?v=uwg72l_kC8M)` cria uma miniatura clicável que redireciona para o vídeo no YouTube. A imagem usada é a miniatura padrão do YouTube para o vídeo.
-
-## Demonstração
-
 Veja o dashboard em ação no [YouTube](https://www.youtube.com/watch?v=uwg72l_kC8M):
 
 [![Dashboard](https://img.youtube.com/vi/uwg72l_kC8M/0.jpg)](https://www.youtube.com/watch?v=uwg72l_kC8M)
