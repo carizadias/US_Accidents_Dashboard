@@ -77,7 +77,7 @@ Outros atributos relacionados às condições de visibilidade, tipo de estrada, 
 
 <iframe width="875" height="492" src="https://www.youtube.com/embed/uwg72l_kC8M" title="Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/uwg72l_kC8M" ></iframe>
+
 
 
 ## Contribuições
