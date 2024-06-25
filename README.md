@@ -73,14 +73,10 @@ Atributos Disponíveis: Cada registro de acidente inclui uma ampla gama de atrib
 Outros atributos relacionados às condições de visibilidade, tipo de estrada, presença de obras, entre outros.
 
 ## Dashboard em Streamlit:
-[Clique aqui para assistir ao vídeo](Dashboard/assets/Dashboard.mp4)
-![Descrição do vídeo](Dashboard/assets/thumbnail.png)
-https://youtu.be/uwg72l_kC8M 
-[![Descrição do vídeo]([https://img.youtube.com/vi/ID_do_Vídeo/maxresdefault.jpg](https://youtu.be/uwg72l_kC8M))]([https://www.youtube.com/watch?v=ID_do_Vídeo](https://youtu.be/uwg72l_kC8M))
 
-<iframe width="875" height="492" src="https://www.youtube.com/embed/uwg72l_kC8M" title="Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>video</iframe>
 
-<iframe width="696" height="392" src="https://www.youtube.com/embed/l63O0wuV2Vc" title="Man Roasts The Queens On Dating Show, RUINS HIS OWN LIFE." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="875" height="492" src="https://www.youtube.com/embed/uwg72l_kC8M" title="Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## Contribuições
