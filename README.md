@@ -77,6 +77,8 @@ Outros atributos relacionados às condições de visibilidade, tipo de estrada, 
 [Clique aqui para assistir ao vídeo](Dashboard/assets/Dashboard.mp4)
 ![Descrição do vídeo](Dashboard/assets/thumbnail.png)
 https://youtu.be/uwg72l_kC8M 
+[![Descrição do vídeo]([https://img.youtube.com/vi/ID_do_Vídeo/maxresdefault.jpg](https://youtu.be/uwg72l_kC8M))]([https://www.youtube.com/watch?v=ID_do_Vídeo](https://youtu.be/uwg72l_kC8M))
+
 
 ## Contribuições
 Contribuições são bem-vindas! Para sugestões de novas funcionalidades, melhorias ou correções de bugs, abra uma issue ou envie um pull request.
