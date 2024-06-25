@@ -72,7 +72,9 @@ Atributos Disponíveis: Cada registro de acidente inclui uma ampla gama de atrib
 -Weather_Condition: Condição climática no momento do acidente.
 Outros atributos relacionados às condições de visibilidade, tipo de estrada, presença de obras, entre outros.
 
-## Dashboard em Streamlit
+## Dashboard em Streamlit:
+[Clique aqui para assistir ao vídeo](assets/Dashboard.mp4)
+![Descrição do vídeo](assets/thumbnail.png)
 
 ## Contribuições
 Contribuições são bem-vindas! Para sugestões de novas funcionalidades, melhorias ou correções de bugs, abra uma issue ou envie um pull request.
