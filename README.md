@@ -74,10 +74,7 @@ Outros atributos relacionados às condições de visibilidade, tipo de estrada, 
 
 ## Dashboard em Streamlit:
 
-[Clique aqui para assistir ao vídeo](Dashboard/assets/Dashboard.mp4)
-![Descrição do vídeo](Dashboard/assets/thumbnail.png)
-https://youtu.be/uwg72l_kC8M 
-[![Descrição do vídeo]([https://img.youtube.com/vi/ID_do_Vídeo/maxresdefault.jpg](https://youtu.be/uwg72l_kC8M))]([https://www.youtube.com/watch?v=ID_do_Vídeo](https://youtu.be/uwg72l_kC8M))
+<iframe width="875" height="492" src="https://www.youtube.com/embed/uwg72l_kC8M" title="Dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Contribuições
