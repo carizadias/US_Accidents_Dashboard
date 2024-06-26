@@ -72,7 +72,12 @@ Atributos Disponíveis: Cada registro de acidente inclui uma ampla gama de atrib
 - Weather_Condition: Condição climática no momento do acidente.
 Outros atributos relacionados às condições de visibilidade, tipo de estrada, presença de obras, entre outros.
 
-## Dashboard em Streamlit:
+## Dashboard de Streamlit:
+
+https://carizadias-us-accidents-dash-dashboardaccident-dashboard-byxmgx.streamlit.app/
+
+
+## Tutorial:
 
 Veja o dashboard em ação no [YouTube](https://www.youtube.com/watch?v=uwg72l_kC8M):
 
@@ -80,6 +85,10 @@ Veja o dashboard em ação no [YouTube](https://www.youtube.com/watch?v=uwg72l_k
 
 
 
+
 ## Contribuições
 Contribuições são bem-vindas! Para sugestões de novas funcionalidades, melhorias ou correções de bugs, abra uma issue ou envie um pull request.
+
+https://media1.giphy.com/media/1qktVRi0xWSxQZnzPI/source.gif
+
 
