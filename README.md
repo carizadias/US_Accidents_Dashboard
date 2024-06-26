@@ -89,8 +89,8 @@ Veja o dashboard em ação no [YouTube](https://www.youtube.com/watch?v=uwg72l_k
 ## Contribuições
 Contribuições são bem-vindas! Para sugestões de novas funcionalidades, melhorias ou correções de bugs, abra uma issue ou envie um pull request.
 
-https://media1.giphy.com/media/1qktVRi0xWSxQZnzPI/source.gif
 
-![jack](https://github.com/carizadias/US_Accidents_Dashboard/assets/95142358/a2f1d8e6-5383-4232-9a4a-9ad8c80ce862)
+
+![jack](https://github.com/carizadias/US_Accidents_Dashboard/assets/95142358/a2f1d8e6-5383-4232-9a4a-9ad8c80ce862){:height="200px" width="300px"}
 
 
